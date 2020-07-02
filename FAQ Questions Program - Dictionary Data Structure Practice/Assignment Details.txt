@@ -1,0 +1,36 @@
+
+The Dictionary is a very powerful data structure. The objective of this programming assignment is to demonstrate proficiency with dictionaries. You are to write a program that manages a dictionary of
+Frequently Asked Questions (FAQ's). Questions serve as the keys and answers serve as the values. Your program will use a menu driven interface to display the items in the dictionary, add FAQ's and
+optionally to delete FAQ's.
+
+Create a program with a menu that allows the user to do the following:
+
+----------------------------------------------------
+Frequently Asked Questions
+----------------------------------------------------
+0:Exit
+l:List FAQ ' s
+2:Add FAQ
+3:Delete FAQ
+
+Please enter a choice : 
+
+When displaying the FAQ's, neatly display the questions and answers paired together as in this example:
+Frequently Asked Questions:
+------------------------------------------------------
+Question : ?
+Answer: ****
+Question : ?
+Answer: ****
+
+Requirements for Menu Selection 2:
+
+• If the question is already in the dictionary, do not overwrite it. Let the user know that the question is already in the FAQ's. Then ask the user to rephrase the question.
+• Otherwise, prompt the user for the answer
+o Add the question/answer pair to the dictionary using the question as the key and the answer as the value.
+Requirements for Menu Selection 3 (QP-.tional):
+
+• Ask the user for the question to be deleted.
+• Check to see if the question is in the dictionary.
+• If it isn't, let the user know that the question could not be found and that no changes were made.
+• Otherwise delete the item from the dictionary and let the user know that the item was deleted.
