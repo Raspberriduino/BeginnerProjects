@@ -1,0 +1,6 @@
+The objective of this assignment is to demonstrate proficiency with reading files, and using string methods to slice strings, working with dictionaries and using-step wise development to complete your program.
+Python is an excellent tool for reading text files and parsing (i.e. filtering) the data. The assignn1ent is to write a Python program in four steps that reads a Linux authentication log file, identifies the 
+user names used in failed password attempts and counts the times each user name is used.
+
+The purpose of step-wise development is to take an otherwise complex problem and break it down into separate manageable steps. Too often students and novice developers struggle because they by and attack a 
+problem al1 at once. This leads to multiple problems in the code that prove too difficult to overcome. By breaking the problem up into pieces, the overall solution is much easier to obtain.
